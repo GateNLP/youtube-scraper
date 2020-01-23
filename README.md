@@ -11,12 +11,13 @@ A search result contains information about a YouTube videos that matches the key
 * Third Parameter: Number of results needed (multiple of 50)
 
 If all the results are needed then just enter 'all' in case of third parameter.
-\n
 Example:
 
 ```bash
 python keyword-search-script.py ************ "Green Day" all
 ```
+
+The JSON data gets saved as keyword_search.json in the same directory.
 
 ## Comments and Replies
 
@@ -30,6 +31,8 @@ Example:
 ```bash
 python get-comments-script.py ************ i-2zY4BdP1s
 ```
+
+The JSON data gets saved as comments.json in the same directory.
 
 ## Contributing
 
