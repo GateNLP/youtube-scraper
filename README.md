@@ -10,7 +10,8 @@ A search result contains information about a YouTube videos that matches the key
 * Second Parameter: Keywords
 * Third Parameter: Number of results needed (multiple of 50)
 
-If all results needed then just enter 'all' in case of third parameter.
+If all the results are needed then just enter 'all' in case of third parameter.
+\n
 Example:
 
 ```bash
