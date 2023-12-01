@@ -5,12 +5,12 @@ This Python script enriches a CSV file with YouTube channel information and iden
 ## Requirements
 
 - Python 3.x installed
-- Required libraries: `pytube`, `pandas`
+- Required library: `pytube`
 
 You can install the necessary libraries using pip:
 
 ```bash
-pip install pytube pandas
+pip install pytube
 ```
 
 ## Usage
